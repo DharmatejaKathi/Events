@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.item-container {
+  width: 40%;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  list-style-type: none;
+}
+.image {
+  width: 100%;
+}
+.active-border-color {
+  border: 2px solid #2dd4bf;
+}
+.img-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+  padding: none;
+  cursor: pointer;
+  width: 300px;
+}
